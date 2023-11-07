@@ -1,3 +1,6 @@
-owo
-el pepe ewe
+
 #include <stdio.h>
+void main ()
+{
+    printf("hola mundo");
+}
