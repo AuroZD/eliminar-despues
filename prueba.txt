@@ -2,5 +2,7 @@
 #include <stdio.h>
 void main ()
 {
-    printf("hola mundo");
+ int inumero;
+ inumero = 11;
+    printf("hola mundo, estamos en el mes %i", inumero );
 }
